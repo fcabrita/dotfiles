@@ -28,6 +28,11 @@ URxvt*scrollBar:	true
 !styles: rxvt(default), plain, next, xterm
 URxvt*scrollstyle:	plain
 
+!! Bindings !!
+!URxvt.keysym.Control-Up:     \033[1;5A
+!URxvt.keysym.Control-Down:   \033[1;5B
+!URxvt.keysym.Control-Left:   \e[1;5D
+!URxvt.keysym.Control-Right:	\e[1;5C
 
 
 
